@@ -1,0 +1,55 @@
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\bin\Debug\file project 2.exe.config
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file project 2.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file_project_2.AddNewTable_Form.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file_project_2.add_new__col.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file_project_2.Constraints_Form.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file_project_2.delete_column.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file_project_2.Form1.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file_project_2.Properties.Resources.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file project 2.csproj.GenerateResource.Cache
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\bin\Debug\file project 2.exe
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\bin\Debug\file project 2.pdb
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file project 2.exe
+c:\users\hp-pc\documents\visual studio 2012\Projects\file project 2\file project 2\obj\Debug\file project 2.pdb
+C:\Users\hp-pc\Downloads\file project 2\file project 2\bin\Debug\file project 2.exe.config
+C:\Users\hp-pc\Downloads\file project 2\file project 2\bin\Debug\file project 2.exe
+C:\Users\hp-pc\Downloads\file project 2\file project 2\bin\Debug\file project 2.pdb
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file_project_2.AddNewTable_Form.resources
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file_project_2.add_new__col.resources
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file_project_2.Constraints_Form.resources
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file_project_2.delete_column.resources
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file_project_2.Form1.resources
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file_project_2.Properties.Resources.resources
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file project 2.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file project 2.exe
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file project 2.pdb
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file_project_2.insert__data.resources
+C:\Users\hp-pc\Downloads\file project 2\file project 2\obj\Debug\file project 2.csprojResolveAssemblyReference.cache
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\bin\Debug\file project 2.exe.config
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.exe
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.pdb
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\bin\Debug\file project 2.exe
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\bin\Debug\file project 2.pdb
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.csprojResolveAssemblyReference.cache
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.AddNewTable_Form.resources
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.add_new__col.resources
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.Constraints_Form.resources
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.delete_column.resources
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.Form1.resources
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.insert__data.resources
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.Properties.Resources.resources
+C:\Users\hp-pc\Downloads\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.csproj.GenerateResource.Cache
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\bin\Debug\file project 2.exe.config
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.exe
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.pdb
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\bin\Debug\file project 2.exe
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\bin\Debug\file project 2.pdb
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.csprojResolveAssemblyReference.cache
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.AddNewTable_Form.resources
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.add_new__col.resources
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.Constraints_Form.resources
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.delete_column.resources
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.Form1.resources
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.insert__data.resources
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file_project_2.Properties.Resources.resources
+E:\حاجات الكليه\سنه تانيه\سنه تانيه الترم التانى\file team\file project 2\file project 2\obj\Debug\file project 2.csproj.GenerateResource.Cache
