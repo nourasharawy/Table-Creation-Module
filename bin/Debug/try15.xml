@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="try15.xml">
+  <Column>
+    <Name>id</Name>
+    <Values>
+    </Values>
+    <Constraints>
+      <DataType>float</DataType>
+      <AllowNull>True</AllowNull>
+      <PK>False</PK>
+      <sequence>
+        <StartValue>
+        </StartValue>
+        <IncrementValue>
+        </IncrementValue>
+      </sequence>
+      <constr>&lt; 15</constr>
+    </Constraints>
+  </Column>
+</Table>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="try4.xml">
+  <Column>
+    <Name>id</Name>
+    <Values>
+    </Values>
+    <Constraints>
+      <DataType>int</DataType>
+      <AllowNull>True</AllowNull>
+      <PK>False</PK>
+      <sequence>
+        <StartValue>2</StartValue>
+        <IncrementValue>4</IncrementValue>
+      </sequence>
+    </Constraints>
+  </Column>
+  <Column>
+    <Name>salary</Name>
+    <Values>
+    </Values>
+    <Constraints>
+      <DataType>float</DataType>
+      <AllowNull>True</AllowNull>
+      <PK>False</PK>
+      <sequence>
+        <StartValue>0</StartValue>
+        <IncrementValue>0</IncrementValue>
+      </sequence>
+    </Constraints>
+  </Column>
+</Table>

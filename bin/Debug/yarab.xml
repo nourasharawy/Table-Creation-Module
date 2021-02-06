@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Table name="yarab.xml"><Column><Name>id</Name><Values></Values><Constraints><DataType>int</DataType><AllowNull>False</AllowNull><PK>True</PK></Constraints></Column></Table>

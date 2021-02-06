@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="try9.xml">
+  <Column>
+    <Name>id</Name>
+    <Values>
+    </Values>
+    <Constraints>
+      <DataType>int</DataType>
+      <AllowNull>True</AllowNull>
+      <PK>False</PK>
+      <sequence>
+        <StartValue>
+        </StartValue>
+        <IncrementValue>
+        </IncrementValue>
+      </sequence>
+      <constr>
+      </constr>
+    </Constraints>
+  </Column>
+</Table>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Table name="to.xml"><Column><Name>to</Name><Values></Values><Constraints><DataType>nchar</DataType><AllowNull>False</AllowNull><PK>False</PK></Constraints></Column></Table>

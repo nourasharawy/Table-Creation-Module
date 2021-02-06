@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="try13.xml">
+  <Column>
+    <Name>id</Name>
+    <Values>
+    </Values>
+    <Constraints>
+      <DataType>int</DataType>
+      <AllowNull>True</AllowNull>
+      <PK>False</PK>
+      <sequence>
+        <StartValue>
+        </StartValue>
+        <IncrementValue>
+        </IncrementValue>
+      </sequence>
+      <constr>&gt; 10</constr>
+    </Constraints>
+  </Column>
+  <Column>
+    <Name>sds</Name>
+    <Values>
+    </Values>
+    <Constraints>
+      <DataType>int</DataType>
+      <AllowNull>True</AllowNull>
+      <PK>False</PK>
+      <Sequence>
+        <StartValue>
+        </StartValue>
+        <IncrementValue>
+        </IncrementValue>
+      </Sequence>
+      <constr>
+      </constr>
+    </Constraints>
+  </Column>
+</Table>
